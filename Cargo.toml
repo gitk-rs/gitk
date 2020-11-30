@@ -2,7 +2,11 @@
 name = "gitk"
 version = "0.1.0"
 authors = ["Alexander Korolev <kilork@yandex.ru>"]
+description = """
+gitk-clone for command line
+"""
 edition = "2018"
+license = "Unlicense OR MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
